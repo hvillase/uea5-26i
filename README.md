@@ -17,8 +17,7 @@ div, span, favicon
 ## Semana 5
 Video, audio y métodos de cadena  
 [html energy](https://html.energy/)  
-## Semana 6
-Coloquio 1  
+## Semana 6 
 Proyecto web 1  
 ## Semana 7
 Proyecto web 2  
