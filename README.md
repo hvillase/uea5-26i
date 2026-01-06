@@ -26,7 +26,7 @@ Desplegado de sitios web
 ## Semana 9
 ## Semana 10
 ## Semana 11
-## Semana 12
+Coloquio: presentación de trabajos.  
 ## Recursos
 [w3schools](https://www.w3schools.com/) Tutoriales web  
 [MDN Web Docs](https://developer.mozilla.org/es/) Tutoriales web  
