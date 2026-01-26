@@ -3,14 +3,14 @@ Comunicación Creativa en la Cultura Digital
 ## Semana 1
 Introducción a la unidad 3.  
 ¿Cómo funciona Internet?  
-Hola Mundo: html  
+Hola Mundo: html, css y js  
 Repositorios  
 [VSC](https://code.visualstudio.com/)  
 [HTML](https://developer.mozilla.org/es/docs/Web/HTML)  
 [Git](https://git-scm.com/)  
 [GitHub](https://github.com/)  
 ## Semana 2
-Hola Mundo: css + js  
+Terminal  
 [CSS](https://developer.mozilla.org/es/docs/Web/CSS)  
 [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)  
 Variables: let, const y var  
