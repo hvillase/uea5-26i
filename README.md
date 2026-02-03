@@ -17,6 +17,7 @@ Variables: let, const y var
 Datos: cadenas (strings) y números  
 ## Semana 3
 Imágenes y vínculos  
+Color Digital    
 ## Semana 4
 div, span, favicon
 ## Semana 5

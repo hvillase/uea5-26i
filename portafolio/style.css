@@ -1,0 +1,27 @@
+body{
+    background-color: #FFFF00;
+    color: #FF0000;
+    font-size: 40px;
+}
+
+h1{
+    color: #FF00FF;
+}
+
+p{
+    color: #0000FF;
+}
+
+div{
+    background-color: #AAAAAA;
+    padding: 20px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #FF00AA;
+    border-radius: 6px;
+    margin-left: 50px;
+}
+
+img{
+    border-radius: 50%;
+}
