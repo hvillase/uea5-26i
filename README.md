@@ -51,4 +51,4 @@ Portal [CreativeCommons](https://search.creativecommons.org/)
 [InkScape](https://inkscape.org/es/) Imagen vectorial  
 [Krita](https://krita.org/es/) Dibujo  
 [Kitty](https://sw.kovidgoyal.net/kitty/) Terminal  
-[ParziByte] (https://parzibyte.me/apps/generador-qr/) Generador de QR  
+[ParziByte](https://parzibyte.me/apps/generador-qr/) Generador de QR  
